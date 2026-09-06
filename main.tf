@@ -1,5 +1,6 @@
 # Deliberately insecure synthetic-only IaC used for the authorized MVDev acceptance proof.
 # This fixture is never deployed.
+# This revision intentionally retains the same finding set for exact provider reconciliation.
 resource "aws_s3_bucket" "synthetic_public_bucket" {
   bucket = "cline-kan-169-public-synthetic-never-deployed"
 }
