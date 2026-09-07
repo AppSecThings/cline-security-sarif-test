@@ -6,3 +6,8 @@ client, employer, credential, or real finding.
 
 The default branch is intentionally empty of analyzable infrastructure. Acceptance branches add
 and then remediate a deterministic synthetic issue without merging the pull request.
+
+The live acceptance branch may include a metadata-only follow-up commit to prove exact-revision
+reprocessing and provider reconciliation without changing the synthetic finding fixture.
+
+The repeatability follow-up uses the same synthetic branch to prove a fresh disposable tunnel.
