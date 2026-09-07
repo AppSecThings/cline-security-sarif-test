@@ -1,0 +1,12 @@
+{
+  "version": "v1",
+  "exceptions": [
+    {
+      "exception_id": "16900000-0000-4000-8000-000000000001",
+      "fingerprint": "cline:v1:sha256:84f869dea2ab7af6a2298fd14e0f899e6d53314816f0a7dcdb5ac7d0c04aa6b1",
+      "requested_by_subject": "user:appsecthings-synthetic",
+      "justification": "Synthetic KAN-169 approval-required exception proof only.",
+      "expires_at": "2026-10-01T00:00:00Z"
+    }
+  ]
+}
